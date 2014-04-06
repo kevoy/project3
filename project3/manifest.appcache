@@ -1,0 +1,32 @@
+CACHE MANIFEST
+
+# version 2011-07-012 06:06:44 v1
+
+CACHE:
+
+# html files
+#cards.html
+
+# css files
+static/cards.css
+
+# images
+static/cback.jpg
+static/loading.gif
+static/q02th.jpg
+static/splat.png
+
+static/page-flip-01a.wav
+static/short-drum-roll.mp3
+static/TaDa-SoundBible.com-1884170640.wav
+
+# misc
+
+#js
+static/cards.js
+
+FALLBACK:
+*
+
+NETWORK:
+*
